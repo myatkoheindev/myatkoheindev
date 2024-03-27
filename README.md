@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ### Hi 👋, I'm Myat Ko Hein
 
- 🔭 Software Engineer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myatkoheindev&label=Profile%20views&color=0e75b6&style=flat" alt="myatkoheindev" /> </p>
+
+ 🔭 Software Engineer<br><br>
  🌱 I’m currently learning **Laravel, Express, Nest**<br><br>
  💬 Ask me about **php, nodejs, typescript**<br><br>
  📫 How to reach me **myatkohein.dev@gmail.com**
