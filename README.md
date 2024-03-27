@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **myatkoheindev/myatkoheindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Myat Ko Hein</h1>
-<h3 align="center">Full Stack Developer</h3>
+### Hi 👋, I'm Myat Ko Hein
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myatkoheindev&label=Profile%20views&color=0e75b6&style=flat" alt="myatkoheindev" /> </p>
-
-# 💫 About Me:
-- 🌱 I’m currently learning **Laravel, Express, Nest**<br><br>
-- 💬 Ask me about **php, nodejs, typescript**<br><br>
-- 📫 How to reach me **myatkohein.dev@gmail.com**
+ 🔭 Software Engineer
+ 🌱 I’m currently learning **Laravel, Express, Nest**<br><br>
+ 💬 Ask me about **php, nodejs, typescript**<br><br>
+ 📫 How to reach me **myatkohein.dev@gmail.com**
 
 
 ## 🌐 Socials:
@@ -38,8 +34,5 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=myatkoheindev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=myatkoheindev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
